@@ -134,3 +134,23 @@ int N = Convert.ToInt32(Console.ReadLine());
 for (int i = (-1)*N; i <=N; i++)
 Console.Write(i + " ");
 */
+
+
+
+/*
+//на вход получает трехзначение число и на выходе показывает последнюю цифру числа
+Console.WriteLine("Введите трехзначное число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+while (n<100 || n>999)
+{
+    Console.Write("попробуй еще раз: ");
+    n = Convert.ToInt32(Console.ReadLine());
+}
+if (n>=100 && n<=999)
+{
+    Console.WriteLine(n%10);
+}
+*/
+
+
+
