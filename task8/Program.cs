@@ -60,4 +60,53 @@ Console.WriteLine(result);
 */
 
 
+/*
+//заполнение массива автоматически случайными числами
+void FillArray(int[] collection) //метод void , который заполняет массив
+{
+    int length = collection.Length;
+    int index = 0;
+    while (index < length)
+    {
+        collection[index] = new Random().Next(1, 10);
+        index++;
+    }
+}
+
+void PrintArray(int[] col) //метод void , который печатает массив
+{
+    int count = col.Length;
+    int position = 0;
+    while (position < count)
+    {
+        Console.WriteLine(col[position]);
+        position++;
+    }
+}
+
+int IndexOF(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = -1; // покажет -1, если эл-т не найден в массиве!!!!
+    while(index < count)
+    {
+        if(collection[index] == find)
+        {
+            position = index;
+            break;   //для нахождения первой позиции (если есть повторения)
+        }
+        index++;
+    }
+    return position;
+} 
+
+int[] array = new int[10];  //определили массив из 10 эл-тов
+FillArray(array);           //заполнили массив 
+PrintArray(array);          //распечатали массив
+Console.WriteLine();
+
+int pos = IndexOF(array, 4); //найдем именно число 4 в массиве
+Console.WriteLine(pos);
+*/
 
