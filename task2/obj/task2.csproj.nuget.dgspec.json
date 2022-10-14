@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaa\\Desktop\\home\\task2\\task2.csproj": {}
+    "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaa\\Desktop\\home\\task2\\task2.csproj": {
+    "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaa\\Desktop\\home\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\aaa\\Desktop\\home\\task2\\task2.csproj",
-        "packagesPath": "C:\\Users\\aaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaa\\Desktop\\home\\task2\\obj\\",
+        "projectPath": "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task2\\task2.csproj",
+        "packagesPath": "C:\\Users\\Павел\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Павел\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
