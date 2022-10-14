@@ -5,7 +5,7 @@ void FillArray(int[] collection)
     int index = 0;
     while (index < length)
     {
-        collection[index] = new Random().Next(100, 1000);
+        collection[index] = new Random().Next(1, 10);
         index++;
     }
 }
@@ -31,5 +31,5 @@ for (int z = 0; z < array.Length; z+=2)
     {
         sum = sum + array[z];
     }
-    
+
 Console.WriteLine(sum);
