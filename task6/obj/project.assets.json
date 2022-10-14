@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aaa\\.nuget\\packages\\": {}
+    "C:\\Users\\Павел\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaa\\Desktop\\home\\task6\\task6.csproj",
+      "projectUniqueName": "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task6\\task6.csproj",
       "projectName": "task6",
-      "projectPath": "C:\\Users\\aaa\\Desktop\\home\\task6\\task6.csproj",
-      "packagesPath": "C:\\Users\\aaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaa\\Desktop\\home\\task6\\obj\\",
+      "projectPath": "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task6\\task6.csproj",
+      "packagesPath": "C:\\Users\\Павел\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Павел\\Desktop\\all project\\ProgramsTask2\\task6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aaa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Павел\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
