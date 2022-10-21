@@ -1,4 +1,5 @@
-﻿Console.Clear();
+﻿/*
+Console.Clear();
 Console.WriteLine("строка  ");
 int line = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("столбец  ");
@@ -43,3 +44,8 @@ void PrintArray(int[,] collection)
 
 PrintArray(col); 
 Console.WriteLine();
+*/
+
+
+
+
